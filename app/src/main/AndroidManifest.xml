@@ -2,6 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.atguigu.shoppingmall">
 
+    <!-- 网络-->
     <uses-permission android:name="android.permission.INTERNET" />
     <!-- Required  一些系统要求的权限，如访问网络等 -->
     <uses-permission android:name="android.permission.RECEIVE_USER_PRESENT" />
